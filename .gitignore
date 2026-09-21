@@ -1,0 +1,4 @@
+.cursor/
+KakaoTalk_*
+_build.py
+images/*.svg
